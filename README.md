@@ -89,12 +89,4 @@ Feel free to submit issues or pull requests if you have any suggestions or impro
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
-### Explanation:
-
-- **Prerequisites**: Lists the requirements to run the script.
-- **Usage**: Explains how to use the script, including the command-line arguments.
-- **JSON File Structure**: Provides an example of the expected JSON file format.
-- **Contributing**: Encourages contributions and provides guidelines.
-- **License**: Indicates the license for the project.
-
 This `README.md` should provide a clear and concise overview of how to use the script and what it does.
