@@ -1,14 +1,6 @@
 {
   "lists": [
-    {
-      "listId": "685",
-      "listVersion": 2,
-      "createdAt": "2024-08-16T14:31:06.084Z",
-      "updatedAt": "2024-08-20T12:02:42.512Z",
-      "filtersUpdatedAt": "2024-08-20T12:02:42.512Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
+    {      
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Brandenburg",
@@ -252,14 +244,6 @@
       "size": 253
     },
     {
-      "listId": "698",
-      "listVersion": 1,
-      "createdAt": "2024-08-20T12:12:32.498Z",
-      "updatedAt": "2024-08-20T12:12:32.498Z",
-      "filtersUpdatedAt": "2024-08-20T12:12:32.498Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Schleswig-Holstein",
@@ -736,14 +720,6 @@
       "size": 422
     },
     {
-      "listId": "684",
-      "listVersion": 2,
-      "createdAt": "2024-08-16T14:29:47.295Z",
-      "updatedAt": "2024-08-20T12:02:52.479Z",
-      "filtersUpdatedAt": "2024-08-20T12:02:52.479Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Bremen",
@@ -815,14 +791,6 @@
       "size": 175
     },
     {
-      "listId": "697",
-      "listVersion": 1,
-      "createdAt": "2024-08-20T12:11:41.143Z",
-      "updatedAt": "2024-08-20T12:11:41.143Z",
-      "filtersUpdatedAt": "2024-08-20T12:11:41.143Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Sachsen-Anhalt",
@@ -1055,14 +1023,6 @@
       "size": 131
     },
     {
-      "listId": "683",
-      "listVersion": 3,
-      "createdAt": "2024-08-16T14:23:18.658Z",
-      "updatedAt": "2024-08-20T12:03:01.527Z",
-      "filtersUpdatedAt": "2024-08-20T12:03:01.527Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Hamburg",
@@ -1195,14 +1155,6 @@
       "size": 553
     },
     {
-      "listId": "686",
-      "listVersion": 2,
-      "createdAt": "2024-08-16T14:32:15.408Z",
-      "updatedAt": "2024-08-20T12:02:31.634Z",
-      "filtersUpdatedAt": "2024-08-20T12:02:31.634Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Berlin",
@@ -1425,14 +1377,6 @@
       "size": 836
     },
     {
-      "listId": "695",
-      "listVersion": 1,
-      "createdAt": "2024-08-20T12:09:04.006Z",
-      "updatedAt": "2024-08-20T12:09:04.006Z",
-      "filtersUpdatedAt": "2024-08-20T12:09:04.006Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Saarland",
@@ -1533,14 +1477,6 @@
       "size": 243
     },
     {
-      "listId": "692",
-      "listVersion": 2,
-      "createdAt": "2024-08-16T14:40:31.864Z",
-      "updatedAt": "2024-08-20T12:01:16.096Z",
-      "filtersUpdatedAt": "2024-08-20T12:01:16.096Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Nordrhein-Westfalen",
@@ -2437,14 +2373,6 @@
       "size": 3128
     },
     {
-      "listId": "690",
-      "listVersion": 2,
-      "createdAt": "2024-08-16T14:37:46.777Z",
-      "updatedAt": "2024-08-20T12:01:41.442Z",
-      "filtersUpdatedAt": "2024-08-20T12:01:41.442Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Mecklenburg-Vorpommern",
@@ -2668,14 +2596,6 @@
       "size": 165
     },
     {
-      "listId": "696",
-      "listVersion": 1,
-      "createdAt": "2024-08-20T12:10:23.154Z",
-      "updatedAt": "2024-08-20T12:10:23.154Z",
-      "filtersUpdatedAt": "2024-08-20T12:10:23.154Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Sachsen",
@@ -3090,14 +3010,6 @@
       "size": 168
     },
     {
-      "listId": "694",
-      "listVersion": 1,
-      "createdAt": "2024-08-20T12:07:58.066Z",
-      "updatedAt": "2024-08-20T12:07:58.066Z",
-      "filtersUpdatedAt": "2024-08-20T12:07:58.066Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Rheinland-Pfalz",
@@ -3788,14 +3700,6 @@
       "size": 1240
     },
     {
-      "listId": "688",
-      "listVersion": 2,
-      "createdAt": "2024-08-16T14:35:25.016Z",
-      "updatedAt": "2024-08-20T12:02:07.766Z",
-      "filtersUpdatedAt": "2024-08-20T12:02:07.766Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Baden-Württemberg",
@@ -5021,14 +4925,6 @@
       "size": 6808
     },
     {
-      "listId": "691",
-      "listVersion": 2,
-      "createdAt": "2024-08-16T14:39:19.937Z",
-      "updatedAt": "2024-08-20T12:01:26.558Z",
-      "filtersUpdatedAt": "2024-08-20T12:01:26.558Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Niedersachsen",
@@ -5871,14 +5767,6 @@
       "size": 1219
     },
     {
-      "listId": "689",
-      "listVersion": 2,
-      "createdAt": "2024-08-16T14:36:38.166Z",
-      "updatedAt": "2024-08-20T12:01:53.644Z",
-      "filtersUpdatedAt": "2024-08-20T12:01:53.644Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Hessen",
@@ -6456,14 +6344,6 @@
       "size": 2650
     },
     {
-      "listId": "687",
-      "listVersion": 2,
-      "createdAt": "2024-08-16T14:33:56.657Z",
-      "updatedAt": "2024-08-20T12:02:22.510Z",
-      "filtersUpdatedAt": "2024-08-20T12:02:22.510Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Bayern",
@@ -8557,14 +8437,6 @@
       "size": 4602
     },
     {
-      "listId": "699",
-      "listVersion": 1,
-      "createdAt": "2024-08-20T12:13:30.360Z",
-      "updatedAt": "2024-08-20T12:13:30.360Z",
-      "filtersUpdatedAt": "2024-08-20T12:13:30.360Z",
-      "processingStatus": "COMPLETE",
-      "createdById": "26529722",
-      "updatedById": "26529722",
       "processingType": "DYNAMIC",
       "objectTypeId": "0-2",
       "name": "Companies PLZ Thüringen",
