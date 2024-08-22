@@ -1,4 +1,3 @@
-```markdown
 # HubSpot List Creation Script
 
 This script allows you to create multiple lists in HubSpot by reading filter definitions from a JSON file. Each list in the JSON file will be created dynamically using the provided access token.
